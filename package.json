@@ -1,0 +1,34 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "Backend practice: Create a url shortener using Node.js, Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanbc10/urlShortener.git"
+  },
+  "keywords": [
+    "url",
+    "shortener",
+    "url",
+    "shortener",
+    "backend",
+    "node",
+    "js",
+    "javascript",
+    "practice",
+    "portfolio",
+    "express",
+    "mongo",
+    "nosql"
+  ],
+  "author": "Jonathan B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanbc10/urlShortener/issues"
+  },
+  "homepage": "https://github.com/jonathanbc10/urlShortener#readme"
+}
